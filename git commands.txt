@@ -20,7 +20,7 @@ git branch
    - git branch -d [branch-name] 지정한 브랜치를 삭제
 
 git checkout
-   - 로컬 저장사의 브랜치를 전환할때 사용하는 명령어(?)
+   - 로컬 저장소의 브랜치를 전환할때 사용하는 명령어(?)
 
 git log
    - 로컬 저장소의 커밋 히스토리를 탐색하는데 사용하는 명령어
